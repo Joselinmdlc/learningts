@@ -12,6 +12,9 @@ function __init__() {
       case 'Cafe':
         typePerson = "Castaña";
         break;
+      case 'negro':
+        typePerson = "Pelinegra";
+        break;
       default:
         console.log("Tu persona no existe");
         break;
